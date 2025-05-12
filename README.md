@@ -2,9 +2,9 @@
 
 # 🌻 I'm Henrique, here to advance social and environmental causes with software
 
-💻 _Full-stack Freelance Engineer with 10+ years of experience_
+_Full-stack Freelance Engineer with 10+ years of experience_
 
-I build digital products for ambitious organizations. Full-stack development is where I shine most, but I also speak business and design. My experience spans everything from product strategy and marketing, to UX design and integrations development.
+I build digital products for ambitious organizations. Full-stack development is where I shine the most, but I'm also fluent in business and design. My experience spans from product strategy and marketing, to UX design and integrations development.
 
 ## Highlight of preferred tools
 
@@ -19,7 +19,13 @@ I build digital products for ambitious organizations. Full-stack development is 
 
 I'm open to new clients. You'll especially love my work & grit if you are developing businesses or social projects with a focus on social justice, farming and/or the environment.
 
-![email icon](./email.svg) henrique@hdoro.dev / ![globe icon](./globe.svg) [hdoro.dev](https://hdoro.dev) / ![LinkedIn icon](./linkedin.svg) [@hdoro](https://www.linkedin.com/in/hdoro/) / ![Bluesky icon](./bluesky.svg) [@hdoro.dev](https://bsky.app/profile/hdoro.dev)
+![email icon](./email.svg) henrique@hdoro.dev
+
+![globe icon](./globe.svg) [hdoro.dev](https://hdoro.dev)
+
+![LinkedIn icon](./linkedin.svg) [@hdoro](https://www.linkedin.com/in/hdoro/)
+
+![Bluesky icon](./bluesky.svg) [@hdoro.dev](https://bsky.app/profile/hdoro.dev)
 
 ## Some of my best writing
 
@@ -31,4 +37,4 @@ I'm open to new clients. You'll especially love my work & grit if you are develo
 
 ![Screenshot of the homepage of Gororobas](./gororobas.png)
 
-🥕 [Gororobas](http://github.com/hdoro/gororobas) is my current attempt at bridging my passion for Agroecology and software. Currently it's a collaborative wiki and note-taking platform on all-things planting and cooking. Winner of Gel Data 2024 hackathon (form. EdgeDB).
+🥕 [Gororobas](http://github.com/hdoro/gororobas) is my current attempt at bridging my passion for Agroecology and software: a collaborative wiki and note-taking platform on all-things planting and cooking. Winner of Gel Data 2024 hackathon (form. EdgeDB).
