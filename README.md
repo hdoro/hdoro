@@ -1,6 +1,6 @@
 ![Effective software of ambitious businesses and happy users](./header.png)
 
-# 🌻 Hey there, I'm Henrique, here to advance social and environmental causes with software
+# 🌻 I'm Henrique, here to advance social and environmental causes with software
 
 💻 _Full-stack Freelance Engineer with 10+ years of experience_
 
@@ -10,7 +10,7 @@ I build digital products for ambitious organizations. Full-stack development is 
 
 | Frontend | Backend | Design & Tools |
 |:---------|:--------|:---------------|
-| ![React's logo](./react.svg) React | ![Effect's logo](./effect.png) Effect TS | Product Strategy |
+| ![React's logo](./react.svg) React | ![Effect's logo](./effect.svg) Effect TS | Product Strategy |
 | ![NextJS's logo](./nextjs.svg) NextJS | ![Gel's logo](./gel.svg) Gel DB | Design Sprints & UI/UX |
 | ![Typescript's logo](./typescript.svg) TypeScript | APIs & integrations | ![Figma's logo](./figma.svg) Figma |
 
@@ -19,10 +19,7 @@ I build digital products for ambitious organizations. Full-stack development is 
 
 I'm open to new clients. You'll especially love my work & grit if you are developing businesses or social projects with a focus on social justice, farming and/or the environment.
 
-- ![email icon](./email.svg) henrique@hdoro.dev
-- ![globe icon](./globe.svg) [hdoro.dev](https://hdoro.dev)
-- ![LinkedIn icon](./linkedin.svg) [@hdoro](https://www.linkedin.com/in/hdoro/)
-- ![Bluesky icon](./bluesky.svg) [@hdoro.dev](https://bsky.app/profile/hdoro.dev)
+![email icon](./email.svg) henrique@hdoro.dev / ![globe icon](./globe.svg) [hdoro.dev](https://hdoro.dev) / ![LinkedIn icon](./linkedin.svg) [@hdoro](https://www.linkedin.com/in/hdoro/) / ![Bluesky icon](./bluesky.svg) [@hdoro.dev](https://bsky.app/profile/hdoro.dev)
 
 ## Some of my best writing
 
